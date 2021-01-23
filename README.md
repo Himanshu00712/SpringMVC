@@ -1,9 +1,8 @@
 # SpringMVC
 
-Learning project.
-CRUD application
+Learning project : CRUD application
 
-Spring MVC
-SQL
-Jsp
-Hibernate
+* Spring MVC
+* SQL
+* Jsp
+* Hibernate
